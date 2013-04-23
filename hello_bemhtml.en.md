@@ -1,6 +1,14 @@
 # Hello, BEMHTML!
 
-This guide will help you to try the BEMHTML template engine and understand its basic principles, after going seven simple steps.
+This guide will help you start using BEMHTML and understand it's basic principles in just 7 easy steps.
+
+- Step 1. [name](#link)
+- Step 2. [name](#link)
+- Step 3. [name](#link)
+- Step 4. [name](#link)
+- Step 5. [name](#link)
+- Step 6. [name](#link)
+- Step 7. [name](#link)
 
 ## Step 1. Initialize project
 
